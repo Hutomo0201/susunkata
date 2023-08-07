@@ -1,0 +1,33 @@
+﻿{
+	"version": 1691384510,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/bgmenu-sheet0.png",
+		"images/play-sheet0.png",
+		"images/bglevel-sheet0.png",
+		"images/huruf-sheet0.png",
+		"images/huruf-sheet1.png",
+		"images/huruf-sheet2.png",
+		"images/huruf-sheet3.png",
+		"images/jawaban-sheet0.png",
+		"images/tempathuruf-sheet0.png",
+		"images/hewan-sheet0.png",
+		"images/hewan-sheet1.png",
+		"images/hewan-sheet2.png",
+		"images/particles.png",
+		"images/nice-sheet0.png",
+		"images/next-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/mainlagi-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
